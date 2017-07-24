@@ -1,0 +1,16 @@
+#pragma once
+#include <vtkSmartPointer.h>
+#include <vtkRenderer.h>
+#include <vtkRenderWindow.h>
+#include <vtkImageViewer2.h>
+#include <vtkRenderWindowInteractor.h>
+#include <vtkAutoInit.h>
+#include <vtkInteractorStyleImage.h>
+#include <vtkImageActor.h>
+#include <vtkImageMapper.h>
+#include <vtkImageMapper3D.h>
+#include <vtkImageData.h>
+#include <vtkBMPReader.h>
+#include <vtkAlgorithmOutput.h>
+#include <vtkImageChangeInformation.h>
+#include <vtkMetaImageReader.h>
